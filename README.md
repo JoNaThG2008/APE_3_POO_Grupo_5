@@ -6,7 +6,9 @@
 
 ¡Bienvenido/a a nuestro proyecto digital para la asignatura de **Programación Orientada a Objetos**! Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas por nosotros.
 
----
+
+
+# 🚀 ReparaLoop
 
 ## 🏫 Información Institucional
 
@@ -25,16 +27,6 @@
 **ReparaLoop** es un proyecto desarrollado en Java como parte de la asignatura de Programación Orientada a Objetos.
 
 
-# 🚀 ReparaLoop
-
-> Proyecto desarrollado para la asignatura de Programación Orientada a Objetos (Universidad Nacional de Loja).
-
----
-# 🚀 ReparaLoop
-
-> Proyecto desarrollado para la asignatura de Programación Orientada a Objetos (Universidad Nacional de Loja).
-
----
 
 ## 📂 Estructura del Repositorio
 
