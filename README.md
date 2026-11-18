@@ -2,9 +2,9 @@
 
 # <p align="center"> Universidad Nacional De Loja</p>
 
-# 💻 Programación orientado a Objetos
+# 💻 Programación Orientada a Objetos
 
-¡Bienvenido/a a nuestro proyecto digital para la asignatura de **Programación**! Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas por nosotros.
+¡Bienvenido/a a nuestro proyecto digital para la asignatura de **Programación Orientada a Objetos**! Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas por nosotros.
 
 ---
 
@@ -13,7 +13,7 @@
 * **Institución:** Universidad Nacional de Loja
 * **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
 * **Carrera:** Computación
-* **Asignatura:** Teoría de la Programación
+* **Asignatura:** Programación Orientada a Objetos
 * **Integrantes:**
   * Juan Pablo Jumbo Orellana
   * Luis Alejandro Rodríguez Luzón
@@ -23,8 +23,7 @@
 ---
 
 ## Descripción del proyecto
-**ReparaLoop** es un proyecto desarrollado en Java como parte de la
-asignatura de Programación Orientada a Objetos.
+**ReparaLoop** es un proyecto desarrollado en Java como parte de la asignatura de Programación Orientada a Objetos.
 
 
 ---
