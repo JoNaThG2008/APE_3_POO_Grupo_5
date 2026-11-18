@@ -1,35 +1,38 @@
-<div align="center">
+<p align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0249b6fe-8642-4ea1-ba56-dd3e713088fc" /></p>
 
-# ReparaLoop
+# <p align="center"> Universidad Nacional De Loja</p>
 
-### Proyecto de Programación Orientada a Objetos
+# 💻 Programación orientado a Objetos
 
-**Universidad Nacional de Loja**
-
-**Carrera de Computación**
+¡Bienvenido/a a nuestro proyecto digital para la asignatura de **Programación**! Este espacio ha sido diseñado para documentar el proceso y las evidencias prácticas desarrolladas por nosotros.
 
 ---
 
-### Integrantes
+## 🏫 Información Institucional
 
-Luis Alejandro Rodríguez Luzón  
-Jonathan Gerardo Contento Cuenca  
-Juan Pablo Jumbo Orellana  
-Sdier Emanuel Roblez Roblez  
-
-</div>
+* **Institución:** Universidad Nacional de Loja
+* **Facultad:** Energía, las Industrias y los Recursos Naturales no Renovables
+* **Carrera:** Computación
+* **Asignatura:** Teoría de la Programación
+* **Integrantes:**
+  * Juan Pablo Jumbo Orellana
+  * Luis Alejandro Rodríguez Luzón
+  * Andy Vladimir Ordoñez Namcela
+  * Sdier Emanuel Roblez Roblez 
 
 ---
 
 ## Descripción del proyecto
-
 **ReparaLoop** es un proyecto desarrollado en Java como parte de la
 asignatura de Programación Orientada a Objetos.
 
-En este repositorio se encuentran los diagramas y el código fuente
-del proyecto.
 
-## Contenido del repositorio
+---
+
+## 📂 Estructura del Repositorio
+
+Para facilitar la navegación, los contenidos se encuentran organizados de la siguiente manera:
+
 
 | Carpeta | Contenido | Acceso |
 |:--------|:----------|:------:|
