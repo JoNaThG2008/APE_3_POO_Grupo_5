@@ -15,11 +15,10 @@
 * **Carrera:** Computación
 * **Asignatura:** Programación Orientada a Objetos
 * **Integrantes:**
-  * Juan Pablo Jumbo Orellana
   * Luis Alejandro Rodríguez Luzón
-  * Andy Vladimir Ordoñez Namcela
+  * Jonathan Gerardo Contento Cuenca
   * Sdier Emanuel Roblez Roblez 
-
+  * Juan Pablo Jumbo Orellana
 ---
 
 ## Descripción del proyecto
@@ -54,9 +53,3 @@ Puedes acceder a cada paquete directamente:
 
 ---
 
-<div align="center">
-
-**ReparaLoop**  
-Programación Orientada a Objetos
-
-</div>
