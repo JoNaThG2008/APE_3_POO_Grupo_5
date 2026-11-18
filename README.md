@@ -25,31 +25,26 @@
 **ReparaLoop** es un proyecto desarrollado en Java como parte de la asignatura de Programación Orientada a Objetos.
 
 
+# 🚀 ReparaLoop
+
+> Proyecto desarrollado para la asignatura de Programación Orientada a Objetos (Universidad Nacional de Loja).
+
 ---
 
 ## 📂 Estructura del Repositorio
 
-Para facilitar la navegación, los contenidos se encuentran organizados de la siguiente manera:
+Para facilitar la navegación por el proyecto, los contenidos se encuentran organizados de la siguiente manera:
 
+| Carpeta / Paquete | Descripción | Acceso directo |
+| :--- | :--- | :--- |
+| 📁 **Diagramas** | Representaciones gráficas y diseño del sistema. | [Ver carpeta](./ReparaLoop/diagramas/) |
+| 📁 **Código Fuente** | Archivos principales del proyecto en Java. | [Ver código](./ReparaLoop/src/) |
 
-| Carpeta | Contenido | Acceso |
-|:--------|:----------|:------:|
-| **Diagramas** | Diagramas utilizados para representar el diseño del proyecto. | [Ver diagramas](./ReparaLoop/diagramas/) |
-| **Código fuente** | Archivos Java del proyecto. | [Ver código fuente](./ReparaLoop/src/) |
+### 📦 Organización del Código Fuente (`/src`)
 
-## Organización del código
+El código está estructurado en capas dentro del paquete `edu.unl.cc`:
 
-El código fuente está organizado en los siguientes paquetes:
-
-- **Dominio:** contiene las clases que representan los elementos principales del proyecto.
-- **Negocio:** contiene la lógica y las operaciones del sistema.
-- **Vista:** contiene las clases relacionadas con la interacción con el usuario.
-
-Puedes acceder a cada paquete directamente:
-
-- [Ir a dominio](./ReparaLoop/src/main/java/edu/unl/cc/dominio/)
-- [Ir a negocio](./ReparaLoop/src/main/java/edu/unl/cc/negocio/)
-- [Ir a vista](./ReparaLoop/src/main/java/edu/unl/cc/vista/)
-
----
+*   🧱 **Dominio** (`dominio/`): Clases que representan las entidades y elementos principales del negocio. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/dominio/))
+*   ⚙️ **Negocio** (`negocio/`): Lógica de la aplicación y operaciones del sistema. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/negocio/))
+*   💻 **Vista** (`vista/`): Clases encargadas de la interacción con el usuario. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/vista/))
 
