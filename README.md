@@ -30,21 +30,20 @@
 > Proyecto desarrollado para la asignatura de Programación Orientada a Objetos (Universidad Nacional de Loja).
 
 ---
+# 🚀 ReparaLoop
+
+> Proyecto desarrollado para la asignatura de Programación Orientada a Objetos (Universidad Nacional de Loja).
+
+---
 
 ## 📂 Estructura del Repositorio
 
-Para facilitar la navegación por el proyecto, los contenidos se encuentran organizados de la siguiente manera:
+Para facilitar la navegación, los contenidos del proyecto se encuentran organizados de la siguiente manera:
 
-| Carpeta / Paquete | Descripción | Acceso directo |
+| Elemento | Descripción / Paquete | Acceso directo |
 | :--- | :--- | :--- |
-| 📁 **Diagramas** | Representaciones gráficas y diseño del sistema. | [Ver carpeta](./ReparaLoop/diagramas/) |
+| 📁 **Diagramas** | Representaciones gráficas y diseño del sistema. | [Ver diagramas](./ReparaLoop/diagramas/) |
 | 📁 **Código Fuente** | Archivos principales del proyecto en Java. | [Ver código](./ReparaLoop/src/) |
-
-### 📦 Organización del Código Fuente (`/src`)
-
-El código está estructurado en capas dentro del paquete `edu.unl.cc`:
-
-*   🧱 **Dominio** (`dominio/`): Clases que representan las entidades y elementos principales del negocio. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/dominio/))
-*   ⚙️ **Negocio** (`negocio/`): Lógica de la aplicación y operaciones del sistema. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/negocio/))
-*   💻 **Vista** (`vista/`): Clases encargadas de la interacción con el usuario. ([Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/vista/))
-
+| 🧱 **Dominio** | Clases que representan las entidades principales (`edu.unl.cc.dominio`). | [Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/dominio/) |
+| ⚙️ **Negocio** | Lógica de la aplicación y operaciones del sistema (`edu.unl.cc.negocio`). | [Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/negocio/) |
+| 💻 **Vista** | Clases encargadas de la interacción con el usuario (`edu.unl.cc.vista`). | [Ir al paquete](./ReparaLoop/src/main/java/edu/unl/cc/vista/) |
