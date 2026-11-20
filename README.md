@@ -28,21 +28,17 @@ Su estructura está organizada mediante paquetes que separan las entidades princ
 
 ## 📂 Estructura del Repositorio
 
-Para facilitar la navegación, los contenidos del proyecto se encuentran organizados de la siguiente manera:
+Para facilitar la navegación, el proyecto se encuentra organizado de la siguiente manera:
 
 | Elemento | Descripción | Acceso directo |
 | :--- | :--- | :--- |
-| 📁 **ReparaLoop** | Carpeta principal que contiene los archivos del proyecto. | [Ver carpeta](./ReparaLoop/) |
-| 📁 **Diagramas** | Diagramas UML y representaciones gráficas del sistema. | [Ver diagramas](./ReparaLoop/diagramas/) |
-| 📄 **ReparaLoop.mdj** | Archivo editable del diagrama del proyecto. | [Ver archivo](./ReparaLoop/diagramas/ReparaLoop.mdj) |
-| 🖼️ **Diagrama de clases** | Representación de las clases y sus relaciones. | [Ver imagen](./ReparaLoop/diagramas/diagrama_clases_dominio.png) |
-| 🖼️ **Diagrama de paquetes** | Organización de los paquetes del sistema. | [Ver imagen](./ReparaLoop/diagramas/diagrama_paquetes.png) |
-| 📁 **Código fuente** | Archivos principales desarrollados en Java. | [Ver código](./ReparaLoop/src/main/java/) |
-| 🧱 **Dominio** | Clases que representan las entidades principales del sistema. | [Ver paquete](./ReparaLoop/src/main/java/dominio/) |
-| ⚙️ **Negocio** | Clases encargadas de gestionar la lógica y las operaciones del sistema. | [Ver paquete](./ReparaLoop/src/main/java/negocio/) |
-| 💻 **Vista** | Clases responsables de la interacción con el usuario. | [Ver paquete](./ReparaLoop/src/main/java/vista/) |
-| 📄 **pom.xml** | Archivo de configuración y gestión de dependencias de Maven. | [Ver archivo](./ReparaLoop/pom.xml) |
-| 📄 **README.md** | Documento principal de presentación y navegación del repositorio. | [Ver archivo](./README.md) |
+| 📁 **ReparaLoop** | Carpeta principal que contiene los archivos y recursos del proyecto. | [Ver carpeta](./ReparaLoop/) |
+| 📁 **Diagramas** | Representaciones gráficas y diagramas UML del sistema. | [Ver diagramas](./ReparaLoop/diagramas/) |
+| 📁 **Código Fuente** | Clases y paquetes desarrollados en Java. | [Ver código](./ReparaLoop/src/main/java/) |
+
+---
+
+**Proyecto académico – Universidad Nacional de Loja**
 
 ---
 
